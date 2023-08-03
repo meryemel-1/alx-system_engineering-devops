@@ -1,2 +1,2 @@
-#!/bin/blash
+#!/bin/bash
 chmod 007 hello 
